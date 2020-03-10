@@ -310,13 +310,6 @@ a:focus {
 /*------------------------------------------*/
 /*	 Overlay Pattern 
 /*------------------------------------------*/
-.overlay {
-    background-image: url(../img/thumbs/overlay.png);
-    background-color: rgba(0, 0, 0, 0.4);
-    background-repeat: repeat;
-    height: 100%;
-}
-
 /*------------------------------------------*/
 /*	 Intro Page Content   
 /*------------------------------------------*/
